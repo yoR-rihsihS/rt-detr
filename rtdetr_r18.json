@@ -1,0 +1,42 @@
+{
+    "model_name": "rtdetr_r18",
+
+    "batch_size": 40,
+
+    "num_classes": 80,
+    "backbone_model": "resnet18",
+    "hidden_dim": 256, 
+    "ffn_dim": 768, 
+    "nhead": 8,
+    "num_encoder_layers": 2,
+    "num_decoder_layers": 4,
+    "aux_loss": true,
+    "num_queries": 100,
+    "num_denoising": 100,
+    "num_decoder_points": 4,
+    
+    "expansion_factor": 0.5,
+    "num_bottleneck_blocks": 3,
+    "dropout": 0.1,
+    "multi_scale": [480, 640, 704],
+    
+    "epochs": 50,
+    "learning_rate": 0.0001,
+    "learning_rate_backbone": 0.00001,
+    "weight_decay": 0.0001,
+    "steps": [20, 30, 40],
+    "gamma": 0.2,
+
+    "matcher_weight_dict": {
+        "cost_labels": 1.0,
+        "cost_bbox": 7.0,
+        "cost_giou": 3.0
+    },
+
+    "criterion_weight_dict": {
+        "loss_label": 1.0,
+        "loss_l1": 7.0,
+        "loss_giou": 3.0
+    },
+    "compute_losses": ["boxes", "focal"]
+}

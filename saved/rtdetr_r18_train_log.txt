@@ -1,0 +1,854 @@
+Number of parameters = 27030372
+Number of trainable parameters = 27030372
+Total Samples in Train Set: 118287
+Total Samples in Validation Set: 5000
+Epoch 1 - Train Metrics:
+  Loss: 26.7535
+  Precision: 0.3695
+  Recall: 0.0568
+  Mean IoU: 0.0382
+  Total GT Objects: 859999
+  Total Pred Objetcd: 132293
+  Total Correct Predictions: 48885
+Epoch 1 - Validation Metrics:
+  Loss: 2.4837
+  Precision: 0.3250
+  Recall: 0.0703
+  Mean IoU: 0.0510
+  Total GT Objects: 36781
+  Total Pred Objetcd: 7961
+  Total Correct Predictions: 2587
+
+Epoch 2 - Train Metrics:
+  Loss: 21.7745
+  Precision: 0.4418
+  Recall: 0.0909
+  Mean IoU: 0.0661
+  Total GT Objects: 859999
+  Total Pred Objetcd: 176867
+  Total Correct Predictions: 78147
+Epoch 2 - Validation Metrics:
+  Loss: 2.2608
+  Precision: 0.3626
+  Recall: 0.1212
+  Mean IoU: 0.0904
+  Total GT Objects: 36781
+  Total Pred Objetcd: 12296
+  Total Correct Predictions: 4459
+
+Epoch 3 - Train Metrics:
+  Loss: 20.3019
+  Precision: 0.4716
+  Recall: 0.1208
+  Mean IoU: 0.0907
+  Total GT Objects: 859999
+  Total Pred Objetcd: 220346
+  Total Correct Predictions: 103924
+Epoch 3 - Validation Metrics:
+  Loss: 2.1302
+  Precision: 0.3548
+  Recall: 0.1989
+  Mean IoU: 0.1518
+  Total GT Objects: 36781
+  Total Pred Objetcd: 20620
+  Total Correct Predictions: 7315
+
+Epoch 4 - Train Metrics:
+  Loss: 19.5010
+  Precision: 0.4963
+  Recall: 0.1497
+  Mean IoU: 0.1148
+  Total GT Objects: 859999
+  Total Pred Objetcd: 259368
+  Total Correct Predictions: 128716
+Epoch 4 - Validation Metrics:
+  Loss: 2.0311
+  Precision: 0.4421
+  Recall: 0.1939
+  Mean IoU: 0.1510
+  Total GT Objects: 36781
+  Total Pred Objetcd: 16126
+  Total Correct Predictions: 7130
+
+Epoch 5 - Train Metrics:
+  Loss: 18.9140
+  Precision: 0.5190
+  Recall: 0.1805
+  Mean IoU: 0.1405
+  Total GT Objects: 859999
+  Total Pred Objetcd: 299166
+  Total Correct Predictions: 155256
+Epoch 5 - Validation Metrics:
+  Loss: 2.0005
+  Precision: 0.4423
+  Recall: 0.2282
+  Mean IoU: 0.1802
+  Total GT Objects: 36781
+  Total Pred Objetcd: 18980
+  Total Correct Predictions: 8395
+
+Epoch 6 - Train Metrics:
+  Loss: 18.3990
+  Precision: 0.5368
+  Recall: 0.2035
+  Mean IoU: 0.1602
+  Total GT Objects: 859999
+  Total Pred Objetcd: 326017
+  Total Correct Predictions: 175012
+Epoch 6 - Validation Metrics:
+  Loss: 1.9242
+  Precision: 0.4971
+  Recall: 0.2445
+  Mean IoU: 0.1966
+  Total GT Objects: 36781
+  Total Pred Objetcd: 18092
+  Total Correct Predictions: 8994
+
+Epoch 7 - Train Metrics:
+  Loss: 18.0150
+  Precision: 0.5548
+  Recall: 0.2262
+  Mean IoU: 0.1797
+  Total GT Objects: 859999
+  Total Pred Objetcd: 350712
+  Total Correct Predictions: 194571
+Epoch 7 - Validation Metrics:
+  Loss: 1.8838
+  Precision: 0.4595
+  Recall: 0.3310
+  Mean IoU: 0.2647
+  Total GT Objects: 36781
+  Total Pred Objetcd: 26498
+  Total Correct Predictions: 12175
+
+Epoch 8 - Train Metrics:
+  Loss: 17.7161
+  Precision: 0.5721
+  Recall: 0.2448
+  Mean IoU: 0.1958
+  Total GT Objects: 859999
+  Total Pred Objetcd: 368080
+  Total Correct Predictions: 210564
+Epoch 8 - Validation Metrics:
+  Loss: 1.8343
+  Precision: 0.4964
+  Recall: 0.3505
+  Mean IoU: 0.2822
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25970
+  Total Correct Predictions: 12891
+
+Epoch 9 - Train Metrics:
+  Loss: 17.4135
+  Precision: 0.5855
+  Recall: 0.2654
+  Mean IoU: 0.2132
+  Total GT Objects: 859999
+  Total Pred Objetcd: 389882
+  Total Correct Predictions: 228278
+Epoch 9 - Validation Metrics:
+  Loss: 1.8257
+  Precision: 0.4955
+  Recall: 0.3544
+  Mean IoU: 0.2883
+  Total GT Objects: 36781
+  Total Pred Objetcd: 26306
+  Total Correct Predictions: 13034
+
+Epoch 10 - Train Metrics:
+  Loss: 17.1956
+  Precision: 0.6016
+  Recall: 0.2776
+  Mean IoU: 0.2239
+  Total GT Objects: 859999
+  Total Pred Objetcd: 396805
+  Total Correct Predictions: 238706
+Epoch 10 - Validation Metrics:
+  Loss: 1.8082
+  Precision: 0.5994
+  Recall: 0.3371
+  Mean IoU: 0.2768
+  Total GT Objects: 36781
+  Total Pred Objetcd: 20687
+  Total Correct Predictions: 12400
+
+Epoch 11 - Train Metrics:
+  Loss: 16.9834
+  Precision: 0.6116
+  Recall: 0.2884
+  Mean IoU: 0.2336
+  Total GT Objects: 859999
+  Total Pred Objetcd: 405570
+  Total Correct Predictions: 248030
+Epoch 11 - Validation Metrics:
+  Loss: 1.7952
+  Precision: 0.5392
+  Recall: 0.3669
+  Mean IoU: 0.2987
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25026
+  Total Correct Predictions: 13494
+
+Epoch 12 - Train Metrics:
+  Loss: 16.7655
+  Precision: 0.6197
+  Recall: 0.3002
+  Mean IoU: 0.2438
+  Total GT Objects: 859999
+  Total Pred Objetcd: 416579
+  Total Correct Predictions: 258146
+Epoch 12 - Validation Metrics:
+  Loss: 1.7603
+  Precision: 0.5495
+  Recall: 0.3827
+  Mean IoU: 0.3110
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25617
+  Total Correct Predictions: 14077
+
+Epoch 13 - Train Metrics:
+  Loss: 16.5815
+  Precision: 0.6305
+  Recall: 0.3095
+  Mean IoU: 0.2522
+  Total GT Objects: 859999
+  Total Pred Objetcd: 422131
+  Total Correct Predictions: 266172
+Epoch 13 - Validation Metrics:
+  Loss: 1.7384
+  Precision: 0.5834
+  Recall: 0.3887
+  Mean IoU: 0.3205
+  Total GT Objects: 36781
+  Total Pred Objetcd: 24505
+  Total Correct Predictions: 14295
+
+Epoch 14 - Train Metrics:
+  Loss: 16.3922
+  Precision: 0.6398
+  Recall: 0.3207
+  Mean IoU: 0.2623
+  Total GT Objects: 859999
+  Total Pred Objetcd: 431122
+  Total Correct Predictions: 275834
+Epoch 14 - Validation Metrics:
+  Loss: 1.7197
+  Precision: 0.6210
+  Recall: 0.3993
+  Mean IoU: 0.3297
+  Total GT Objects: 36781
+  Total Pred Objetcd: 23648
+  Total Correct Predictions: 14685
+
+Epoch 15 - Train Metrics:
+  Loss: 16.2155
+  Precision: 0.6458
+  Recall: 0.3301
+  Mean IoU: 0.2706
+  Total GT Objects: 859999
+  Total Pred Objetcd: 439496
+  Total Correct Predictions: 283847
+Epoch 15 - Validation Metrics:
+  Loss: 1.7177
+  Precision: 0.5994
+  Recall: 0.4002
+  Mean IoU: 0.3292
+  Total GT Objects: 36781
+  Total Pred Objetcd: 24556
+  Total Correct Predictions: 14720
+
+Epoch 16 - Train Metrics:
+  Loss: 16.0487
+  Precision: 0.6524
+  Recall: 0.3393
+  Mean IoU: 0.2786
+  Total GT Objects: 859999
+  Total Pred Objetcd: 447339
+  Total Correct Predictions: 291825
+Epoch 16 - Validation Metrics:
+  Loss: 1.6908
+  Precision: 0.6350
+  Recall: 0.3915
+  Mean IoU: 0.3239
+  Total GT Objects: 36781
+  Total Pred Objetcd: 22677
+  Total Correct Predictions: 14400
+
+Epoch 17 - Train Metrics:
+  Loss: 15.8987
+  Precision: 0.6607
+  Recall: 0.3458
+  Mean IoU: 0.2847
+  Total GT Objects: 859999
+  Total Pred Objetcd: 450109
+  Total Correct Predictions: 297371
+Epoch 17 - Validation Metrics:
+  Loss: 1.6753
+  Precision: 0.6526
+  Recall: 0.3914
+  Mean IoU: 0.3243
+  Total GT Objects: 36781
+  Total Pred Objetcd: 22060
+  Total Correct Predictions: 14396
+
+Epoch 18 - Train Metrics:
+  Loss: 15.7533
+  Precision: 0.6645
+  Recall: 0.3513
+  Mean IoU: 0.2896
+  Total GT Objects: 859999
+  Total Pred Objetcd: 454718
+  Total Correct Predictions: 302159
+Epoch 18 - Validation Metrics:
+  Loss: 1.6731
+  Precision: 0.6139
+  Recall: 0.4044
+  Mean IoU: 0.3347
+  Total GT Objects: 36781
+  Total Pred Objetcd: 24230
+  Total Correct Predictions: 14875
+
+Epoch 19 - Train Metrics:
+  Loss: 15.6309
+  Precision: 0.6704
+  Recall: 0.3576
+  Mean IoU: 0.2955
+  Total GT Objects: 859999
+  Total Pred Objetcd: 458716
+  Total Correct Predictions: 307506
+Epoch 19 - Validation Metrics:
+  Loss: 1.6654
+  Precision: 0.6339
+  Recall: 0.4251
+  Mean IoU: 0.3529
+  Total GT Objects: 36781
+  Total Pred Objetcd: 24667
+  Total Correct Predictions: 15636
+
+Epoch 20 - Train Metrics:
+  Loss: 15.5320
+  Precision: 0.6744
+  Recall: 0.3621
+  Mean IoU: 0.2992
+  Total GT Objects: 859999
+  Total Pred Objetcd: 461728
+  Total Correct Predictions: 311412
+Epoch 20 - Validation Metrics:
+  Loss: 1.6522
+  Precision: 0.6691
+  Recall: 0.3981
+  Mean IoU: 0.3309
+  Total GT Objects: 36781
+  Total Pred Objetcd: 21885
+  Total Correct Predictions: 14644
+
+Epoch 21 - Train Metrics:
+  Loss: 14.9955
+  Precision: 0.6920
+  Recall: 0.3836
+  Mean IoU: 0.8316
+  Total GT Objects: 859999
+  Total Pred Objetcd: 476699
+  Total Correct Predictions: 329887
+Epoch 21 - Validation Metrics:
+  Loss: 1.5884
+  Precision: 0.6650
+  Recall: 0.4354
+  Mean IoU: 0.8330
+  Total GT Objects: 36781
+  Total Pred Objetcd: 24082
+  Total Correct Predictions: 16015
+
+Epoch 22 - Train Metrics:
+  Loss: 14.8158
+  Precision: 0.6953
+  Recall: 0.3911
+  Mean IoU: 0.8335
+  Total GT Objects: 859999
+  Total Pred Objetcd: 483737
+  Total Correct Predictions: 336360
+Epoch 22 - Validation Metrics:
+  Loss: 1.5710
+  Precision: 0.6774
+  Recall: 0.4503
+  Mean IoU: 0.8343
+  Total GT Objects: 36781
+  Total Pred Objetcd: 24452
+  Total Correct Predictions: 16563
+
+Epoch 23 - Train Metrics:
+  Loss: 14.7422
+  Precision: 0.6957
+  Recall: 0.3953
+  Mean IoU: 0.8330
+  Total GT Objects: 859999
+  Total Pred Objetcd: 488662
+  Total Correct Predictions: 339938
+Epoch 23 - Validation Metrics:
+  Loss: 1.5711
+  Precision: 0.6638
+  Recall: 0.4596
+  Mean IoU: 0.8327
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25468
+  Total Correct Predictions: 16905
+
+Epoch 24 - Train Metrics:
+  Loss: 14.6787
+  Precision: 0.6970
+  Recall: 0.3979
+  Mean IoU: 0.8338
+  Total GT Objects: 859999
+  Total Pred Objetcd: 490971
+  Total Correct Predictions: 342210
+Epoch 24 - Validation Metrics:
+  Loss: 1.5843
+  Precision: 0.6501
+  Recall: 0.4497
+  Mean IoU: 0.8305
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25444
+  Total Correct Predictions: 16540
+
+Epoch 25 - Train Metrics:
+  Loss: 14.6419
+  Precision: 0.6992
+  Recall: 0.4005
+  Mean IoU: 0.8341
+  Total GT Objects: 859999
+  Total Pred Objetcd: 492618
+  Total Correct Predictions: 344428
+Epoch 25 - Validation Metrics:
+  Loss: 1.5643
+  Precision: 0.6504
+  Recall: 0.4634
+  Mean IoU: 0.8296
+  Total GT Objects: 36781
+  Total Pred Objetcd: 26208
+  Total Correct Predictions: 17045
+
+Epoch 26 - Train Metrics:
+  Loss: 14.6217
+  Precision: 0.6998
+  Recall: 0.4012
+  Mean IoU: 0.8351
+  Total GT Objects: 859999
+  Total Pred Objetcd: 493048
+  Total Correct Predictions: 345054
+Epoch 26 - Validation Metrics:
+  Loss: 1.5686
+  Precision: 0.6622
+  Recall: 0.4508
+  Mean IoU: 0.8334
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25036
+  Total Correct Predictions: 16580
+
+Epoch 27 - Train Metrics:
+  Loss: 14.5635
+  Precision: 0.7013
+  Recall: 0.4032
+  Mean IoU: 0.8350
+  Total GT Objects: 859999
+  Total Pred Objetcd: 494402
+  Total Correct Predictions: 346721
+Epoch 27 - Validation Metrics:
+  Loss: 1.5613
+  Precision: 0.6730
+  Recall: 0.4562
+  Mean IoU: 0.8358
+  Total GT Objects: 36781
+  Total Pred Objetcd: 24930
+  Total Correct Predictions: 16779
+
+Epoch 28 - Train Metrics:
+  Loss: 14.5804
+  Precision: 0.7022
+  Recall: 0.4052
+  Mean IoU: 0.8348
+  Total GT Objects: 859999
+  Total Pred Objetcd: 496304
+  Total Correct Predictions: 348503
+Epoch 28 - Validation Metrics:
+  Loss: 1.5594
+  Precision: 0.6759
+  Recall: 0.4515
+  Mean IoU: 0.8359
+  Total GT Objects: 36781
+  Total Pred Objetcd: 24572
+  Total Correct Predictions: 16607
+
+Epoch 29 - Train Metrics:
+  Loss: 14.5000
+  Precision: 0.7050
+  Recall: 0.4060
+  Mean IoU: 0.8359
+  Total GT Objects: 859999
+  Total Pred Objetcd: 495293
+  Total Correct Predictions: 349163
+Epoch 29 - Validation Metrics:
+  Loss: 1.5599
+  Precision: 0.6653
+  Recall: 0.4526
+  Mean IoU: 0.8362
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25023
+  Total Correct Predictions: 16647
+
+Epoch 30 - Train Metrics:
+  Loss: 14.4887
+  Precision: 0.7042
+  Recall: 0.4077
+  Mean IoU: 0.8360
+  Total GT Objects: 859999
+  Total Pred Objetcd: 497957
+  Total Correct Predictions: 350653
+Epoch 30 - Validation Metrics:
+  Loss: 1.5502
+  Precision: 0.6729
+  Recall: 0.4633
+  Mean IoU: 0.8353
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25320
+  Total Correct Predictions: 17039
+
+Epoch 31 - Train Metrics:
+  Loss: 14.3773
+  Precision: 0.7081
+  Recall: 0.4102
+  Mean IoU: 0.8373
+  Total GT Objects: 859999
+  Total Pred Objetcd: 498223
+  Total Correct Predictions: 352814
+Epoch 31 - Validation Metrics:
+  Loss: 1.5739
+  Precision: 0.6529
+  Recall: 0.4509
+  Mean IoU: 0.8307
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25402
+  Total Correct Predictions: 16584
+
+Epoch 32 - Train Metrics:
+  Loss: 14.3323
+  Precision: 0.7080
+  Recall: 0.4131
+  Mean IoU: 0.8368
+  Total GT Objects: 859999
+  Total Pred Objetcd: 501801
+  Total Correct Predictions: 355289
+Epoch 32 - Validation Metrics:
+  Loss: 1.5376
+  Precision: 0.6743
+  Recall: 0.4701
+  Mean IoU: 0.8352
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25642
+  Total Correct Predictions: 17290
+
+Epoch 33 - Train Metrics:
+  Loss: 14.3412
+  Precision: 0.7077
+  Recall: 0.4142
+  Mean IoU: 0.8364
+  Total GT Objects: 859999
+  Total Pred Objetcd: 503276
+  Total Correct Predictions: 356183
+Epoch 33 - Validation Metrics:
+  Loss: 1.5453
+  Precision: 0.6814
+  Recall: 0.4633
+  Mean IoU: 0.8359
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25007
+  Total Correct Predictions: 17041
+
+Epoch 34 - Train Metrics:
+  Loss: 14.3197
+  Precision: 0.7076
+  Recall: 0.4135
+  Mean IoU: 0.8369
+  Total GT Objects: 859999
+  Total Pred Objetcd: 502597
+  Total Correct Predictions: 355635
+Epoch 34 - Validation Metrics:
+  Loss: 1.5291
+  Precision: 0.6759
+  Recall: 0.4735
+  Mean IoU: 0.8346
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25768
+  Total Correct Predictions: 17417
+
+Epoch 35 - Train Metrics:
+  Loss: 14.2809
+  Precision: 0.7087
+  Recall: 0.4146
+  Mean IoU: 0.8375
+  Total GT Objects: 859999
+  Total Pred Objetcd: 503152
+  Total Correct Predictions: 356581
+Epoch 35 - Validation Metrics:
+  Loss: 1.5433
+  Precision: 0.6807
+  Recall: 0.4608
+  Mean IoU: 0.8348
+  Total GT Objects: 36781
+  Total Pred Objetcd: 24901
+  Total Correct Predictions: 16949
+
+Epoch 36 - Train Metrics:
+  Loss: 14.2896
+  Precision: 0.7081
+  Recall: 0.4147
+  Mean IoU: 0.8368
+  Total GT Objects: 859999
+  Total Pred Objetcd: 503629
+  Total Correct Predictions: 356635
+Epoch 36 - Validation Metrics:
+  Loss: 1.5361
+  Precision: 0.6760
+  Recall: 0.4676
+  Mean IoU: 0.8354
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25443
+  Total Correct Predictions: 17200
+
+Epoch 37 - Train Metrics:
+  Loss: 14.2710
+  Precision: 0.7094
+  Recall: 0.4159
+  Mean IoU: 0.8370
+  Total GT Objects: 859999
+  Total Pred Objetcd: 504177
+  Total Correct Predictions: 357671
+Epoch 37 - Validation Metrics:
+  Loss: 1.5508
+  Precision: 0.6562
+  Recall: 0.4592
+  Mean IoU: 0.8311
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25741
+  Total Correct Predictions: 16891
+
+Epoch 38 - Train Metrics:
+  Loss: 14.2738
+  Precision: 0.7079
+  Recall: 0.4156
+  Mean IoU: 0.8374
+  Total GT Objects: 859999
+  Total Pred Objetcd: 504911
+  Total Correct Predictions: 357419
+Epoch 38 - Validation Metrics:
+  Loss: 1.5345
+  Precision: 0.6808
+  Recall: 0.4720
+  Mean IoU: 0.8354
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25501
+  Total Correct Predictions: 17361
+
+Epoch 39 - Train Metrics:
+  Loss: 14.2718
+  Precision: 0.7098
+  Recall: 0.4153
+  Mean IoU: 0.8376
+  Total GT Objects: 859999
+  Total Pred Objetcd: 503134
+  Total Correct Predictions: 357135
+Epoch 39 - Validation Metrics:
+  Loss: 1.5474
+  Precision: 0.6682
+  Recall: 0.4617
+  Mean IoU: 0.8334
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25413
+  Total Correct Predictions: 16980
+
+Epoch 40 - Train Metrics:
+  Loss: 14.2869
+  Precision: 0.7099
+  Recall: 0.4147
+  Mean IoU: 0.8373
+  Total GT Objects: 859999
+  Total Pred Objetcd: 502419
+  Total Correct Predictions: 356682
+Epoch 40 - Validation Metrics:
+  Loss: 1.5306
+  Precision: 0.6842
+  Recall: 0.4734
+  Mean IoU: 0.8359
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25449
+  Total Correct Predictions: 17411
+
+Epoch 41 - Train Metrics:
+  Loss: 14.2316
+  Precision: 0.7113
+  Recall: 0.4182
+  Mean IoU: 0.8374
+  Total GT Objects: 859999
+  Total Pred Objetcd: 505585
+  Total Correct Predictions: 359611
+Epoch 41 - Validation Metrics:
+  Loss: 1.5412
+  Precision: 0.6771
+  Recall: 0.4628
+  Mean IoU: 0.8344
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25142
+  Total Correct Predictions: 17023
+
+Epoch 42 - Train Metrics:
+  Loss: 14.2297
+  Precision: 0.7100
+  Recall: 0.4175
+  Mean IoU: 0.8376
+  Total GT Objects: 859999
+  Total Pred Objetcd: 505752
+  Total Correct Predictions: 359086
+Epoch 42 - Validation Metrics:
+  Loss: 1.5394
+  Precision: 0.6709
+  Recall: 0.4664
+  Mean IoU: 0.8337
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25570
+  Total Correct Predictions: 17156
+
+Epoch 43 - Train Metrics:
+  Loss: 14.2317
+  Precision: 0.7100
+  Recall: 0.4171
+  Mean IoU: 0.8378
+  Total GT Objects: 859999
+  Total Pred Objetcd: 505244
+  Total Correct Predictions: 358721
+Epoch 43 - Validation Metrics:
+  Loss: 1.5325
+  Precision: 0.6771
+  Recall: 0.4737
+  Mean IoU: 0.8344
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25730
+  Total Correct Predictions: 17423
+
+Epoch 44 - Train Metrics:
+  Loss: 14.2114
+  Precision: 0.7104
+  Recall: 0.4180
+  Mean IoU: 0.8374
+  Total GT Objects: 859999
+  Total Pred Objetcd: 505988
+  Total Correct Predictions: 359454
+Epoch 44 - Validation Metrics:
+  Loss: 1.5290
+  Precision: 0.6825
+  Recall: 0.4755
+  Mean IoU: 0.8345
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25628
+  Total Correct Predictions: 17491
+
+Epoch 45 - Train Metrics:
+  Loss: 14.2210
+  Precision: 0.7101
+  Recall: 0.4186
+  Mean IoU: 0.8377
+  Total GT Objects: 859999
+  Total Pred Objetcd: 507031
+  Total Correct Predictions: 360023
+Epoch 45 - Validation Metrics:
+  Loss: 1.5310
+  Precision: 0.6758
+  Recall: 0.4744
+  Mean IoU: 0.8339
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25823
+  Total Correct Predictions: 17450
+
+Epoch 46 - Train Metrics:
+  Loss: 14.2069
+  Precision: 0.7112
+  Recall: 0.4188
+  Mean IoU: 0.8376
+  Total GT Objects: 859999
+  Total Pred Objetcd: 506475
+  Total Correct Predictions: 360210
+Epoch 46 - Validation Metrics:
+  Loss: 1.5310
+  Precision: 0.6764
+  Recall: 0.4713
+  Mean IoU: 0.8349
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25627
+  Total Correct Predictions: 17334
+
+Epoch 47 - Train Metrics:
+  Loss: 14.2214
+  Precision: 0.7104
+  Recall: 0.4180
+  Mean IoU: 0.8377
+  Total GT Objects: 859999
+  Total Pred Objetcd: 505977
+  Total Correct Predictions: 359456
+Epoch 47 - Validation Metrics:
+  Loss: 1.5383
+  Precision: 0.6664
+  Recall: 0.4690
+  Mean IoU: 0.8331
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25885
+  Total Correct Predictions: 17251
+
+Epoch 48 - Train Metrics:
+  Loss: 14.2089
+  Precision: 0.7101
+  Recall: 0.4180
+  Mean IoU: 0.8379
+  Total GT Objects: 859999
+  Total Pred Objetcd: 506214
+  Total Correct Predictions: 359486
+Epoch 48 - Validation Metrics:
+  Loss: 1.5588
+  Precision: 0.6531
+  Recall: 0.4578
+  Mean IoU: 0.8295
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25785
+  Total Correct Predictions: 16840
+
+Epoch 49 - Train Metrics:
+  Loss: 14.2252
+  Precision: 0.7103
+  Recall: 0.4177
+  Mean IoU: 0.8377
+  Total GT Objects: 859999
+  Total Pred Objetcd: 505789
+  Total Correct Predictions: 359245
+Epoch 49 - Validation Metrics:
+  Loss: 1.5349
+  Precision: 0.6815
+  Recall: 0.4711
+  Mean IoU: 0.8345
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25427
+  Total Correct Predictions: 17328
+
+Epoch 50 - Train Metrics:
+  Loss: 14.2018
+  Precision: 0.7110
+  Recall: 0.4180
+  Mean IoU: 0.8375
+  Total GT Objects: 859999
+  Total Pred Objetcd: 505620
+  Total Correct Predictions: 359498
+Epoch 50 - Validation Metrics:
+  Loss: 1.5366
+  Precision: 0.6754
+  Recall: 0.4705
+  Mean IoU: 0.8346
+  Total GT Objects: 36781
+  Total Pred Objetcd: 25624
+  Total Correct Predictions: 17307
+
